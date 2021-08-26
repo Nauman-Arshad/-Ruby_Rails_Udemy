@@ -518,3 +518,696 @@ Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.0ms | Allocations: 691
 
 
 MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:42:58 +0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 360)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.4ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 51.2ms | Allocations: 16250)
+Completed 200 OK in 68ms (Views: 54.3ms | ActiveRecord: 0.0ms | Allocations: 19907)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:42 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 40)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 40)
+  Rendered layout layouts/application.html.erb (Duration: 18.7ms | Allocations: 6615)
+Completed 200 OK in 21ms (Views: 19.6ms | Allocations: 7160)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:44 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 17.8ms | Allocations: 6481)
+Completed 200 OK in 20ms (Views: 18.9ms | Allocations: 6925)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:44 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 21.2ms | Allocations: 6478)
+Completed 200 OK in 24ms (Views: 22.4ms | Allocations: 6923)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:45 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 18.8ms | Allocations: 6476)
+Completed 200 OK in 20ms (Views: 19.5ms | Allocations: 6915)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:47 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 40)
+  Rendered layout layouts/application.html.erb (Duration: 28.7ms | Allocations: 6578)
+Completed 200 OK in 31ms (Views: 29.7ms | Allocations: 7023)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:48 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 20.8ms | Allocations: 6477)
+Completed 200 OK in 23ms (Views: 21.7ms | Allocations: 6916)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:50 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 16.0ms | Allocations: 6574)
+Completed 200 OK in 18ms (Views: 17.3ms | Allocations: 7014)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:55 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 16.2ms | Allocations: 6476)
+Completed 200 OK in 18ms (Views: 17.3ms | Allocations: 6915)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:50:57 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 18.9ms | Allocations: 6476)
+Completed 200 OK in 23ms (Views: 21.3ms | Allocations: 6915)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 11:53:44 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 15.1ms | Allocations: 6476)
+Completed 200 OK in 16ms (Views: 15.7ms | Allocations: 6915)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/contact" for 127.0.0.1 at 2021-08-26 11:53:52 +0500
+Processing by PagesController#contact as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (Duration: 0.5ms | Allocations: 125)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 17.7ms | Allocations: 6564)
+Completed 200 OK in 20ms (Views: 18.4ms | Allocations: 7166)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/about" for 127.0.0.1 at 2021-08-26 11:54:05 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/about"):
+  
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 11:54:25 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.7ms | Allocations: 106)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 22.0ms | Allocations: 6793)
+Completed 200 OK in 26ms (Views: 24.0ms | Allocations: 7441)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:00:56 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.4ms | Allocations: 142)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.6ms | Allocations: 113)
+  Rendered layout layouts/application.html.erb (Duration: 16.0ms | Allocations: 7222)
+Completed 200 OK in 19ms (Views: 18.1ms | Allocations: 8540)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:01 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.6ms | Allocations: 144)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.4ms | Allocations: 114)
+  Rendered layouts/_foot.html.erb (Duration: 1.0ms | Allocations: 143)
+  Rendered layout layouts/application.html.erb (Duration: 18.8ms | Allocations: 7692)
+Completed 200 OK in 26ms (Views: 24.2ms | Allocations: 9062)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:08 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.3ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 24.6ms | Allocations: 6577)
+Completed 200 OK in 27ms (Views: 25.8ms | Allocations: 7067)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:10 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 18.0ms | Allocations: 6591)
+Completed 200 OK in 20ms (Views: 19.1ms | Allocations: 7033)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:11 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 24.2ms | Allocations: 6675)
+Completed 200 OK in 26ms (Views: 25.0ms | Allocations: 7118)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started POST "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:16 +0500
+  
+ActionController::RoutingError (No route matches [POST] "/pages/about"):
+  
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:18 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.3ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 20.4ms | Allocations: 6816)
+Completed 200 OK in 22ms (Views: 21.4ms | Allocations: 7296)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:25 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 17.6ms | Allocations: 6659)
+Completed 200 OK in 19ms (Views: 18.7ms | Allocations: 7098)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:26 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 18.6ms | Allocations: 6607)
+Completed 200 OK in 21ms (Views: 19.7ms | Allocations: 7047)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:27 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 18.3ms | Allocations: 6689)
+Completed 200 OK in 20ms (Views: 19.3ms | Allocations: 7130)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:27 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 17.9ms | Allocations: 6577)
+Completed 200 OK in 20ms (Views: 18.8ms | Allocations: 7017)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:28 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 16.4ms | Allocations: 6577)
+Completed 200 OK in 19ms (Views: 17.3ms | Allocations: 7016)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:28 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 16.2ms | Allocations: 6649)
+Completed 200 OK in 17ms (Views: 16.8ms | Allocations: 7089)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:28 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.3ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 13.6ms | Allocations: 6659)
+Completed 200 OK in 15ms (Views: 14.6ms | Allocations: 7099)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:16:28 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 19.2ms | Allocations: 6616)
+Completed 200 OK in 21ms (Views: 19.9ms | Allocations: 7056)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:17:08 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 18.1ms | Allocations: 6689)
+Completed 200 OK in 20ms (Views: 19.1ms | Allocations: 7130)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:17:09 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 13.3ms | Allocations: 6577)
+Completed 200 OK in 15ms (Views: 14.3ms | Allocations: 7017)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:18:30 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 17.8ms | Allocations: 6577)
+Completed 200 OK in 20ms (Views: 18.9ms | Allocations: 7016)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:18:32 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 17.8ms | Allocations: 6636)
+Completed 200 OK in 21ms (Views: 19.2ms | Allocations: 7076)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:18:32 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 15.5ms | Allocations: 6672)
+Completed 200 OK in 17ms (Views: 16.6ms | Allocations: 7112)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:18:32 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 40)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 20.2ms | Allocations: 6617)
+Completed 200 OK in 23ms (Views: 22.2ms | Allocations: 7058)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:18:33 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 17.1ms | Allocations: 6689)
+Completed 200 OK in 19ms (Views: 18.2ms | Allocations: 7130)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/about" for 127.0.0.1 at 2021-08-26 12:19:28 +0500
+Processing by PagesController#about as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/about.html.erb within layouts/application
+  Rendered pages/about.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.3ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 17.2ms | Allocations: 6577)
+Completed 200 OK in 20ms (Views: 18.2ms | Allocations: 7017)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:19:42 +0500
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 360)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.5ms | Allocations: 122)
+  Rendered layouts/_foot.html.erb (Duration: 1.6ms | Allocations: 143)
+  Rendered layout layouts/application.html.erb (Duration: 112.4ms | Allocations: 24860)
+Completed 200 OK in 128ms (Views: 116.2ms | ActiveRecord: 0.0ms | Allocations: 28515)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started POST "/" for 127.0.0.1 at 2021-08-26 12:19:53 +0500
+  
+ActionController::RoutingError (No route matches [POST] "/"):
+  
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:18 +0500
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 360)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.6ms | Allocations: 122)
+  Rendered layouts/_foot.html.erb (Duration: 0.6ms | Allocations: 143)
+  Rendered layout layouts/application.html.erb (Duration: 97.3ms | Allocations: 25725)
+Completed 200 OK in 112ms (Views: 101.8ms | ActiveRecord: 0.0ms | Allocations: 29381)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:22 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 40)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.4ms | Allocations: 40)
+  Rendered layouts/_foot.html.erb (Duration: 0.2ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 21.7ms | Allocations: 6716)
+Completed 200 OK in 23ms (Views: 22.5ms | ActiveRecord: 0.0ms | Allocations: 7267)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:23 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 18.9ms | Allocations: 6579)
+Completed 200 OK in 22ms (Views: 20.7ms | ActiveRecord: 0.0ms | Allocations: 7027)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:23 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 19.1ms | Allocations: 6579)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.0ms | Allocations: 7026)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:24 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 40)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 27.4ms | Allocations: 6677)
+Completed 200 OK in 29ms (Views: 28.2ms | ActiveRecord: 0.0ms | Allocations: 7120)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:24 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 20.4ms | Allocations: 6592)
+Completed 200 OK in 22ms (Views: 21.1ms | ActiveRecord: 0.0ms | Allocations: 7034)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:24 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 17.9ms | Allocations: 6665)
+Completed 200 OK in 20ms (Views: 18.8ms | ActiveRecord: 0.0ms | Allocations: 7108)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:26 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 42)
+  Rendered layout layouts/application.html.erb (Duration: 18.0ms | Allocations: 6583)
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.0ms | Allocations: 7033)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:27 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 16.5ms | Allocations: 6577)
+Completed 200 OK in 19ms (Views: 17.6ms | ActiveRecord: 0.0ms | Allocations: 7022)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:27 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 17.8ms | Allocations: 6577)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.0ms | Allocations: 7022)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:28 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 15.6ms | Allocations: 6577)
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms | Allocations: 7023)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:29 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 40)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 25.8ms | Allocations: 6663)
+Completed 200 OK in 28ms (Views: 26.6ms | ActiveRecord: 0.0ms | Allocations: 7109)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:30 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 19.7ms | Allocations: 6630)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms | Allocations: 7075)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:26:30 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 20.3ms | Allocations: 6592)
+Completed 200 OK in 23ms (Views: 21.4ms | ActiveRecord: 0.0ms | Allocations: 7038)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:28:38 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 40)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 2138.8ms | Allocations: 73832)
+Completed 200 OK in 2140ms (Views: 2139.4ms | ActiveRecord: 0.0ms | Allocations: 74274)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
