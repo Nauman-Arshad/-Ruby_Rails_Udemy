@@ -6,3 +6,80 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 33ms (Views: 16.5ms | ActiveRecord: 0.0ms | Allocations: 4962)
 
 
+Started GET "/" for 127.0.0.1 at 2021-08-26 09:59:25 +0500
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/lib/ruby/gems/3.0.0/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/lib/ruby/gems/3.0.0/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 16.1ms | Allocations: 491)
+Completed 200 OK in 40ms (Views: 23.2ms | ActiveRecord: 0.0ms | Allocations: 3731)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 10:15:22 +0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 358)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /home/nauman/WorkPlace/Ruby_Rails_Udmey/public/packs
+[Webpacker] Hash: e2f281de3ea1fdc4fa5a
+Version: webpack 4.46.0
+Time: 3794ms
+Built at: 08/26/2021 10:15:29 AM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-be412d64645010827f4e.js    125 KiB  application  [emitted] [immutable]  application
+js/application-be412d64645010827f4e.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-be412d64645010827f4e.js js/application-be412d64645010827f4e.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 492 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+  Rendered layout layouts/application.html.erb (Duration: 7783.0ms | Allocations: 14784)
+Completed 200 OK in 7801ms (Views: 7787.6ms | ActiveRecord: 0.0ms | Allocations: 18447)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/pages/contact" for 127.0.0.1 at 2021-08-26 10:16:45 +0500
+Processing by PagesController#contact as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (Duration: 0.8ms | Allocations: 123)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 11.1ms | Allocations: 3010)
+Completed 200 OK in 16ms (Views: 13.3ms | ActiveRecord: 0.0ms | Allocations: 3722)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/contact" for 127.0.0.1 at 2021-08-26 10:17:47 +0500
+Processing by PagesController#contact as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.6ms | Allocations: 3114)
+Completed 200 OK in 12ms (Views: 10.4ms | Allocations: 3890)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/about" for 127.0.0.1 at 2021-08-26 10:18:03 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/about"):
+  
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/contact" for 127.0.0.1 at 2021-08-26 10:18:10 +0500
+Processing by PagesController#contact as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (Duration: 0.3ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 17.5ms | Allocations: 3016)
+Completed 200 OK in 20ms (Views: 19.3ms | Allocations: 3545)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
