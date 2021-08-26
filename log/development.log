@@ -1211,3 +1211,30 @@ Completed 200 OK in 2140ms (Views: 2139.4ms | ActiveRecord: 0.0ms | Allocations:
 
 MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
 MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:40:57 +0500
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 294)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.5ms | Allocations: 94)
+  Rendered layouts/_foot.html.erb (Duration: 0.5ms | Allocations: 110)
+  Rendered layout layouts/application.html.erb (Duration: 3199.0ms | Allocations: 150042)
+Completed 200 OK in 3214ms (Views: 3203.7ms | ActiveRecord: 0.0ms | Allocations: 153701)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
+Started GET "/" for 127.0.0.1 at 2021-08-26 12:42:31 +0500
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 6)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_nav.html.erb (Duration: 0.1ms | Allocations: 7)
+  Rendered layouts/_foot.html.erb (Duration: 0.1ms | Allocations: 5)
+  Rendered layout layouts/application.html.erb (Duration: 30.7ms | Allocations: 8272)
+Completed 200 OK in 33ms (Views: 31.4ms | ActiveRecord: 0.0ms | Allocations: 8826)
+
+
+MiniProfiler storage failure: Permission denied @ rb_sysopen - /home/nauman/WorkPlace/Ruby_Rails_Udmey/tmp/miniprofiler/mp_views_127.0.0.1
